@@ -3,4 +3,4 @@ I will master Git
 third line
 App action
 One more line
-Lets create a merge conflict
+Lets create another merge conflict
